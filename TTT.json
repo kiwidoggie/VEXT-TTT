@@ -1,0 +1,9 @@
+{
+	"Name": "TTT",
+	"Authors": [ "Emulator Nexus", "kiwidog", "Timse" ],
+	"Description": "Trouble in Terrorist Town Mod",
+	"URL": "http://veniceunleashed.net",
+	"Version": 1,
+	"HasWebUI": false,
+	"HasVeniceEXT": true
+}
